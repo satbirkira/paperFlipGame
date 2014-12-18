@@ -1,0 +1,30 @@
+#grid
+{
+    display:table;
+    text-align: center;
+    width:100%;
+    background-color: white;
+}
+
+.row
+{
+  display: table-row;
+}
+
+.flipped
+{
+    background-color: yellow;
+}
+
+.col
+{    
+    display: table-cell;
+    padding: 5px;
+}
+
+a
+{
+    width:100%;
+    height:100%;
+    background: white;
+}
