@@ -3,7 +3,7 @@ Basic Paper Flip Game
 
 Introduction
 -------
-A simple backbone.js card flip game. An alternative to the [todo list]() project currently popular to introduce backbone.
+A simple backbone.js card flip game. An alternative to the [todo list](http://todomvc.com/examples/backbone/) project currently popular for introducing backbone.
 
 Notes
 -------
