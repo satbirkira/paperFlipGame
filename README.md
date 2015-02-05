@@ -24,4 +24,4 @@ Screenshots
 
 ***Console***
 
-![Console](/screenshots/sonsole.png?raw=true "Console")
+![Console](/screenshots/console.png?raw=true "Console")
