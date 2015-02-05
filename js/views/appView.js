@@ -18,7 +18,6 @@ guessGame.appView = Backbone.View.extend({
     checkPaperStatus : function (paper) {
         //if the container has exactly two flipped,
         //destory them if need be
-        console.log("Left: "+this.collection.length);
         var flipped = this.collection.getFlipped();
         if(flipped.length == 2)
         {
